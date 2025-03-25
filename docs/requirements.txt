@@ -1,0 +1,17 @@
+# Dependencias del proyecto FeelSync
+
+# Frameworks y librerías principales
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+nltk
+transformers
+
+# Dependencias opcionales para visualización
+tqdm
+plotly
